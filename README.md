@@ -31,7 +31,7 @@
 
 - [https://downloadserver.soraharu.com:7000/Web%20VR%20Panorama%20API/images/snow2.jpg](https://downloadserver.soraharu.com:7000/Web%20VR%20Panorama%20API/images/snow2.jpg)
 
-*以上 URL 图片加载可能较慢，请稍加等待*
+*请使用桌面浏览器打开以上 URL，图片加载可能较慢，请稍加等待*
 
 ## 📜 开源许可
 
