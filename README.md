@@ -4,7 +4,7 @@
 
 ## 📦️ 调用说明
 
-本 API 标准接口为 `api.php`，以下为参数说明：
+本 API 标准接口为 `https://vrpanoramaapi.soraharu.com/api.php`，以下为参数说明：
 
 | Parameter   | Type  | Lore                           |
 | ----------- | ----- | ------------------------------ |
