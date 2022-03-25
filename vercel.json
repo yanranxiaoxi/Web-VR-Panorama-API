@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "api/*.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+  },
+  "redirects": [
+	{ "source": "/api/(.*)",  "destination": "/" },
+	{ "source": "/(.*).md",  "destination": "/" },
+	{ "source": "/.(.*)",  "destination": "/" }
+  ],
+  "rewrites": [
+    { "source": "/",  "destination": "/api/index.php" },
+	{ "source": "/api.php",  "destination": "/api/api.php" }
+  ]
+}
