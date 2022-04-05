@@ -33,6 +33,12 @@
 
 *请使用桌面浏览器打开以上 URL，图片加载可能较慢，请稍加等待*
 
+## ⚙️ 部署至 Vercel
+
+1. 克隆本仓库到 [GitHub.com](https://github.com/) 或 [GitLab.com](https://gitlab.com/) 个人仓库
+2. 在 [Vercel](https://vercel.com/) 新建项目到你的个人仓库
+3. 等待自动部署完成
+
 ## 📜 开源许可
 
 本项目仅供个人学习研究使用，禁止用于商业及非法用途。
