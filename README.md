@@ -2,6 +2,8 @@
 
 🌎 基于 A-Frame 的 VR 全景网页视图 API 🔐
 
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Web-VR-Panorama-API) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Web-VR-Panorama-API)
+
 ## 📦️ 调用说明
 
 本 API 标准接口为 `https://vrpanoramaapi.soraharu.com/api.php`，以下为参数说明：
