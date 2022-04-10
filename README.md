@@ -19,7 +19,7 @@
 
 此时获取的图片地址为：
 
-- [./images/snow1.jpg](./images/snow1.jpg)
+- [./images/snow1.jpg](https://vrpanoramaapi.soraharu.com/images/snow1.jpg)
 
 相当于以下文件：
 
