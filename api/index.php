@@ -1,6 +1,6 @@
 <?php
 $rand = rand(1, 9);
-header("Location: https://vrpanoramaapi.soraharu.com/api.php?url_type=http&image_url=https://downloadserver.soraharu.com:7000/Web%20VR%20Panorama%20API/images/snow" . $rand . ".jpg");
+header("Location: https://webvrpanorama.api.soraharu.com/api.php?url_type=http&image_url=https://downloadserver.soraharu.com:7000/Web%20VR%20Panorama%20API/images/snow" . $rand . ".jpg");
 exit();
 ?>
 <!DOCTYPE HTML>
