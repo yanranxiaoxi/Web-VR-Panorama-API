@@ -4,6 +4,8 @@
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Web-VR-Panorama-API) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Web-VR-Panorama-API)
 
+[![vercel](https://vercelbadge.soraharu.com/?app=webvrpanorama-api)](https://webvrpanorama.api.soraharu.com/)
+
 ## 📦️ 调用说明
 
 本 API 标准接口为 `https://webvrpanorama.api.soraharu.com/api.php`，以下为参数说明：
